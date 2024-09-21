@@ -1,0 +1,8 @@
+What are negative indexes and why are they used?
+list = [1, 2, 3, 4, 5]
+
+print(list[-1])  - prints 5 (last element)
+print(list[-2])  - prints 4 (second last element)
+print(list[-3])  - prints 3 (third last element)
+
+they used for flexibility of code and makes code more readable.and access element from the end of list or the series.
